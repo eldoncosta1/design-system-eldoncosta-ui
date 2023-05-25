@@ -1,0 +1,5 @@
+node_modules
+dist
+.vscode
+.turbo
+packages/docs/node_modules
