@@ -1,3 +1,6 @@
 {
-  "extends": "@eldoncosta-ui/eslintconfig"
+  "extends": [
+    "@eldoncosta-ui/eslintconfig",
+    "plugin:storybook/recommended"
+  ]
 }
