@@ -4,7 +4,17 @@ import type { Meta, StoryObj } from '@storybook/react'
 export default {
   title: 'Form/TextInput',
   component: TextInput,
-  args: {},
+  args: {
+    size: 'sm'
+  },
+  argTypes: {
+    size: {
+      options: ['sm', 'md'],
+      control: {
+        type: 'inline-radio'
+      }
+    }
+  },
   decorators: [
     (Story) => {
       return (
@@ -19,7 +29,8 @@ export default {
 
 export const Primary: StoryObj<TextInputProps> = {
   args: {
-    placeholder: 'Type your name'
+    placeholder: 'Type your name',
+    size: 'sm'
   }
 }
 
