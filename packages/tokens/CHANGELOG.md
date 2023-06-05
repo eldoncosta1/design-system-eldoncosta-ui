@@ -1,5 +1,11 @@
 # @eldoncosta-ui/tokens
 
+## 1.1.2
+
+### Patch Changes
+
+- add accessibility addon
+
 ## 1.1.1
 
 ### Patch Changes

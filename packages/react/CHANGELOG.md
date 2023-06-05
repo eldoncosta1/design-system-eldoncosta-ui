@@ -1,5 +1,11 @@
 # @eldoncosta-ui/react
 
+## 3.0.2
+
+### Patch Changes
+
+- add accessibility addon
+
 ## 3.0.1
 
 ### Patch Changes

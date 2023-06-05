@@ -1,5 +1,11 @@
 # @eldoncosta-ui/eslint-config
 
+## 5.0.1
+
+### Patch Changes
+
+- add accessibility addon
+
 ## 5.0.0
 
 ### Major Changes
