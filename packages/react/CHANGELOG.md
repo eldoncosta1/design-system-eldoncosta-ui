@@ -1,5 +1,11 @@
 # @eldoncosta-ui/react
 
+## 3.0.1
+
+### Patch Changes
+
+- correct avatar container style
+
 ## 3.0.0
 
 ### Major Changes
